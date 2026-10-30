@@ -128,3 +128,12 @@ https://github.com/mo506id/madmoon_app
 ## Project Status
 
 Academic project developed with Flutter and Supabase. Core functionality has been implemented and tested on an Android emulator.
+
+
+## Application Screenshots
+
+### Login Screen
+![Madmoon Login Screen](resources/screenshots/login.png)
+
+### Dashboard
+![Madmoon Dashboard](resources/screenshots/dashboard.png)
